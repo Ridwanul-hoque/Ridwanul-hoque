@@ -21,9 +21,10 @@
   <a href="https://www.linkedin.com/in/ridwanul-hoque-99525634b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <br />
 
   <a href="https://www.facebook.com/ridwanulrishan.hoque" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge&card_width=400" height="35" alt="facebook logo"  />
   </a>
 </div>
 
