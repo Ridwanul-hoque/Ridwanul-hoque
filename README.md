@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Full Stack Web Development & Machine Learning<br>🎯 Goals: To enhance my skills and build impactful projects<br>🎲 Fun fact: I debug my code more than I write it! 😆</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Full Stack Web Development & Machine Learning<br>🚀 Exploring: Next.js for building dynamic and optimized web applications<br>🎯 Goals: To enhance my skills and build impactful projects<br>🎲 Fun fact: I debug my code more than I write it! 😆</p>
 
 ###
 
