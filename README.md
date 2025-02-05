@@ -1,5 +1,3 @@
-
-
 ###
 <div align="center">
   <img height="300" src="https://i.ibb.co.com/nsNGrBsf/Yellow-and-Blue-Bold-Geometric-Software-Developer-Linked-In-Banner.gif"  />
@@ -17,26 +15,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ridwanul-hoque-99525634b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-
-  <a href="https://www.facebook.com/ridwanulrishan.hoque" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridwanul-hoque&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0D1B2A&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide_border=false" height="150" alt="stats graph"  />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridwanul-hoque&layout=compact&langs_count=5&theme=dark&bg_color=0D1B2A&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide_border=false&card_width=400" height="150" alt="languages graph"  />
-
-###
-
-<h1 align="left">🛠 Language and tools</h1>
+<h1 align="left">🖥️ Languages and Technologies I Know</h1>
 
 ###
 
@@ -60,6 +39,24 @@
 
 ###
 
-<br clear="both">
+<h1 align="left">📬 Reach Me Out</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.facebook.com/ridwanulrishan.hoque" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ridwanul-hoque-99525634b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridwanul-hoque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridwanul-hoque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
