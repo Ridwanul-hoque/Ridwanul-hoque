@@ -1,8 +1,9 @@
+
+
+###
 <div align="center">
   <img height="300" src="https://i.ibb.co.com/nsNGrBsf/Yellow-and-Blue-Bold-Geometric-Software-Developer-Linked-In-Banner.gif"  />
 </div>
-
-###
 
 <h1 align="center">Hi 👋! My name is Ridwanul Hoque | Web Developer & Tech Enthusiast</h1>
 
